@@ -1,8 +1,7 @@
-# HoradeCodar-EP6
+Dedico este repositório ao provável último episódio da tarefa "Hora de Codar!" uma grande saga que chegou ao fim, eu acho.
 
-dedico este repositório ao provável último episódio da tarefa "Hora de Codar!" uma grande saga que chegou ao fim, eu acho.
-
-# OBS: ainda está em desenvolvimento.
+# OBS: Em breve pretendo fazer um remaster deste episódio. 
+### (Os comentários foram gerados por IA.)
 
  ---
 
