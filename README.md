@@ -6,7 +6,7 @@ Dedico este repositório ao provável último episódio da tarefa "Hora de Codar
  ---
 
 # HoradeCodar-EP6: O código nunca desiste
-Este repositório é dedicado ao segundo episódio da tarefa "Hora de Codar!". Ele contém a implementação de diversos programas que utilizam menus para manipulação de registros, oferecendo uma série de funcionalidades, como cadastro, pesquisa, classificação e exibição de dados.
+Este repositório é dedicado ao sexto episódio da tarefa "Hora de Codar!". Ele contém a implementação de diversos programas que utilizam menus para manipulação de registros, oferecendo uma série de funcionalidades, como cadastro, pesquisa, classificação e exibição de dados.
 
 ## Exercícios
 
